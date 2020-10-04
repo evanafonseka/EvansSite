@@ -92,6 +92,10 @@ a:hover {
   bottom: 300px;
 }
 
+.bitmoji-img {
+  position: relative;
+  top: 80px;
+}
 
 .skill-row {
   width: 50%;
