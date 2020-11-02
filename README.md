@@ -1,2 +1,2 @@
 # EvansSite
-Simple website made with HTML and CSS
+Static webpage made with HTML and CSS
